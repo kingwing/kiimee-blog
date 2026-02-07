@@ -1,0 +1,84 @@
+{{ define "main" }}
+<article class="post">
+    <header class="entry-header">
+        <h1 class="entry-title">{{ .Title }}</h1>
+        
+        <div class="entry-meta">
+            <span class="meta-prep meta-prep-author">
+                作者 {{ .Params.author | default "kingwing" }}
+            </span>
+            
+            <span class="meta-sep"> | </span>
+            
+            <span class="meta-date">
+                {{ .Date.Format "2006年1月2日 15:04" }}
+            </span>
+            
+            {{ if .Params.tags }}
+            <div class="meta-tag">
+                标签:
+                {{ range $index, $tag := .Params.tags }}
+                {{ if gt $index 0 }}, {{ end }}
+                <a href="/tags/{{ $tag | urlize }}/" rel="tag">{{ $tag }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </header>
+    
+    <div class="entry-content">
+        {{ .Content }}
+    </div>
+    
+    {{ if .Params.comments }}
+    <footer class="entry-footer">
+        <div class="comments-section">
+            <h3>评论 ({{ len .Params.comments }})</h3>
+            
+            <div class="comments-list">
+                {{ range $index, $comment := .Params.comments }}
+                <div class="comment" id="comment-{{ add $index 1 }}">
+                    <div class="comment-header">
+                        <span class="comment-author">
+                            {{ if $comment.author_url }}
+                            <a href="{{ $comment.author_url }}" target="_blank" rel="external nofollow">{{ $comment.author }}</a>
+                            {{ else }}
+                            {{ $comment.author }}
+                            {{ end }}
+                        </span>
+                        <span class="comment-date">{{ time.Format "2006年1月2日 15:04" $comment.date }}</span>
+                    </div>
+                    
+                    <div class="comment-body">
+                        {{ $comment.content | markdownify }}
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </footer>
+    {{ end }}
+    
+    <footer class="entry-utility">
+        <div class="navigation">
+            {{ with .PrevInSection }}
+            <div class="nav-previous">
+                <span class="meta-nav">&laquo; 上一篇</span>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </div>
+            {{ end }}
+            
+            {{ with .NextInSection }}
+            <div class="nav-next">
+                <span class="meta-nav">下一篇 &raquo;</span>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </div>
+            {{ end }}
+        </div>
+    </footer>
+</article>
+{{ end }}
+
+{{ define "title" }}
+{{ .Title }} - {{ .Site.Title }}
+{{ end }}

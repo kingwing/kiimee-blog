@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geek on 必须出发 - kiimee的环游间隔年</title>
+    <link>//localhost:1313/tags/geek/</link>
+    <description>Recent content in Geek on 必须出发 - kiimee的环游间隔年</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 10 Oct 2010 23:35:22 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/geek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在一个极客（Geek）出发之前</title>
+      <link>//localhost:1313/posts/2010-10-10-%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%9E%81%E5%AE%A2geek%E5%87%BA%E5%8F%91%E4%B9%8B%E5%89%8D/</link>
+      <pubDate>Sun, 10 Oct 2010 23:35:22 +0000</pubDate>
+      <guid>//localhost:1313/posts/2010-10-10-%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%9E%81%E5%AE%A2geek%E5%87%BA%E5%8F%91%E4%B9%8B%E5%89%8D/</guid>
+      <description>&lt;p&gt;极客 - 标题党，事先声明。&lt;/p&gt;&#xA;&lt;p&gt;昨天鼓捣wordpress到sina微博和twitter的同步，到凌晨5点；今天下午又鼓捣到下午出发前半小时；刚才在机场又调了办了小时，貌似全部OK，发此贴测试。&lt;/p&gt;&#xA;&lt;p&gt;刚广播登机，时间有限，先说一下我目前采用的方法。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;wordpress - sina，采用sina微博的关联博客功能；&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;sina - twitter，采用&lt;!-- raw HTML omitted --&gt;月光博客的方法&lt;!-- raw HTML omitted --&gt;，php页面部署至本服务器空间，使用FeedBurner烧制sina微博的rss。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;优点，同步速度貌似比较快（待考验），短链接采用sina微博的sinaurl.cn，以防被墙；sina和twitter的内容都比较干净，不会出现sinaurl与goo.gl（诸如此类）两个地址。&lt;/p&gt;&#xA;&lt;p&gt;登机……夜空飞行……&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

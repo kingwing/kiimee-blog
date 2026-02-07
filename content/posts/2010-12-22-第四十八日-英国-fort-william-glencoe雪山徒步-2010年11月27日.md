@@ -1,0 +1,104 @@
+---
+title: "第四十八日-英国-Fort William-Glencoe雪山徒步 2010年11月27日"
+date: 2010-12-22T01:02:52+00:00
+author: "meer"
+draft: false
+categories:
+  - 05---------------英国
+  - 05.05-威廉堡-20101126
+tags:
+  - Fort William
+  - Glencoe
+  - The Pap of Glencoe
+  - 徒步
+  - 高地
+
+comments:
+  - author: "阿莫莫霭"
+    author_email: ""
+    author_url: ""
+    date: "2010-12-22 08:25:56"
+    content: |-
+      看到这两块小石子，我笑喷了
+
+---
+
+Fort Williamd南部不远的Glencoe峡谷据说风景非常美丽，是非常经典的徒步圣地。常见的徒步线路有三条，级别从简到难大约分别要走3小时、5小时和8小时。其中最经典的两条线路一为Glencoe Lochan，途中几乎没有爬升，为初级线路；另一条名为The Pap of Glencoe，需要从0海拔出发登上一座海拔779米的山峰并原路返回，全程8公里，属于中级线路。现在不是夏季，而且刚下过几场雪，让我们在线路选择上纠结徘徊，索性到那里看情况再定。
+
+不到一个小时的车程，就到了Glencoe站。特别小的镇子，一条2百米的街就到头了，穿过小镇不远直接进山。大概由于我们到得早，居然没有碰到一个同行的人。看着天气尚可，时间尚早，我们决定前往中级线路。
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1310.JPG" full="/gallery/uk/fortwilliam1127/DSC_1310.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+<span style="text-decoration: underline;"></span>
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1318.JPG" full="/gallery/uk/fortwilliam1127/DSC_1318.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1321.JPG" full="/gallery/uk/fortwilliam1127/DSC_1321.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1328.JPG" full="/gallery/uk/fortwilliam1127/DSC_1328.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+先说一下装备，其实也没啥说的，还是那身。kingwing是哥伦比亚普通徒步鞋（低帮且不防水）、毛线手套、冲锋衣裤；meer是天美意高帮平底板鞋、羊皮手套、冲锋衣裤。嘿嘿，因为之前考虑主要是城市游，所以就没特意置办户外装备。
+
+看着雪地上只有自己留下的脚印，我们应该是今天的第一批爬山者。一路上行，薄薄的积雪倒也好走，但五分钟后我们傻眼了。一条蜿蜒的小路已经成了小溪，大概是因为白天山上积雪融化，顺路就直接流下来了。小溪的大部分是冻成冰的，估计入冬以来，冻了又解，解了又冻。总之，简单来说，我们需要在有点化的结冰的小溪上走。试了一下，真是很滑，特别是meer同志的平地板鞋，只能小步小步地滑着走。路旁的厚厚的草都已经冻上了，下面有淤泥，踩上去软软的，有时会陷下去很多，所以也没法走。慢慢地亦步亦趋的走了几分钟，我们两人开始纠结，到底要不要返回容易的线路来走。因为这才刚开始，后面如果都是这种路就基本没法走。考虑了2分钟，我们决定返程，前往easy路线。
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1329.JPG" full="/gallery/uk/fortwilliam1127/DSC_1329.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1340.JPG" full="/gallery/uk/fortwilliam1127/DSC_1340.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1344.JPG" full="/gallery/uk/fortwilliam1127/DSC_1344.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1348.JPG" full="/gallery/uk/fortwilliam1127/DSC_1348.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+正在我们掉头回撤不久的时候，碰到了第二批登山客，三个人，装备超级好，雪靴、雪套、登山杖。相互打过招呼后，他们很诧异的问我们是不是已经登顶归来，我们也很诧异，难道他们认为穿着天美意板鞋的人也可以在早上10点登顶后下山吗？我们说鞋不行，路面太滑，无奈只能放弃。他们表示很惋惜，然后就继续前行了。
+
+看着他们继续前行的身影，我们俩又纠结了一会儿，有些不忍放弃，正好随着气温转暖，部分冰面已经融化，路况正在变好，于是再次掉头，继续磨磨蹭蹭地龟速向前挪进。
+
+这样的冰路继续了20分钟后，前方出去了一条比较宽的小溪，必须要踏着水中石头前行。为了保险，我们又搬了几块石头放水里，顺利渡过。前路继续是冰冻小溪路，坡度有所增加。不过因为是上坡，所以还比较容易控制重心。再继续前行，路已经不很明显了，小溪路的水流也在变大，没法涉水前行，只能一脚深一脚浅的踩着旁边的杂草走路。前面的人已经看不到身影，难度正在逐渐加大，我们又开始第二次纠结要不要回撤。考虑2分钟后，还是决定继续前行。
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1365.JPG" full="/gallery/uk/fortwilliam1127/DSC_1365.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1366.JPG" full="/gallery/uk/fortwilliam1127/DSC_1366.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1370.JPG" full="/gallery/uk/fortwilliam1127/DSC_1370.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1372.JPG" full="/gallery/uk/fortwilliam1127/DSC_1372.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+路已经无法辨认，只能摸索前行。身后又有一些青年男女赶上来，清一色的登山靴加雪套，蹦蹦跳跳的就过去了，看得我们羡慕不已。结果盯着人家看，却忽视了自己的路。meer同志一声惨叫，我们才发现我们已经走到了一片淤泥地。meer同志把脚拔出来的时候，靴子已经全是臭臭的黑泥。赶紧把鞋子脱掉，发现黑泥已经迅速地灌进了鞋内，袜子已经浸满黑黑的泥水。鞋子算是毁了，拿纸巾出来把鞋子的泥搽一搽，勉强可以看出原来白色鞋面。突然出现这个状况，让我们有点不知所措。原本只是鞋子渗水，袜子有点湿，还可以忍受。现在是袜子鞋子脚全湿，而且满是臭泥。纠结了5分钟，我们吼出了一句狠话，反正都已经这样了，不向上爬就太亏了，于是坚定信心，加油向上爬。
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1378.JPG" full="/gallery/uk/fortwilliam1127/DSC_1378.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+一路上石头越来越多，路越来越陡，冰雪也越来越多。走到后面，经常需要手脚并用。而且由于我们的龟速，我们已经由最开始的第一批，掉到不知道第多少批，我们笑称这是“一直被超越”。不过这样也好，前面已经有很多脚印，上山的路可以很容易辨识出来。这段路我们大约又纠结了两到三次，因为kingwing担心上山容易下山难，直到越过一座山脊，路面逐渐变缓才终于确定今天的登顶目标。
+
+走了大约一半的路，我们已经可以远远看到山顶。想抄个近路，我们决定脱离前面人的脚印，不再绕着山走，而是直接爬上山坡。第一段小山坡还挺顺利的，一下子赶上了前面的人，这让我们颇为洋洋得意。但是第二段小山坡就有点崩溃了，爬上山坡，发现居然山坡上是几个结冰的小水塘。大约是融化的雪水积在一起形成的。在这水塘边走，极有可能再次踩入陷阱。不过幸好，我们一一顺利绕开。但想想，这条非常规路线还是有些风险，而且耗费了更多时间。
+
+经过艰苦跋涉，终于来到了山顶下。山顶距离我们大约20-30米垂直距离，抬头仰望，岩壁大约70度左右，有几个专业级的爬山者正在用冰镐与绳索等工具下降。这可怎么上啊？正在我们发愁的时候，另一边有一队人下山来了，一看正是最开始在山脚和我们打招呼的人。看来另一边也有路，我们赶紧打招呼。他们认出了我们，颇为惊讶，估计没有想到这两个中国人居然也上来了，他们离着几十米向我们喊“Very good”，说山顶的风景非常棒。
+
+我们绕行到岩壁侧面，有很多石块可以攀爬向上，不过仍有不小难度，有的路线需要我们两人商量几分钟才能决定脚怎么踩手抓哪里。正当我们愁眉不展，向上寻觅路线的时候，另外几位已经登顶下撤的登山者在了解了我们的意图后告诉我们，这个路线太难，你们可以走另一边的山脊。真是好人啊，都走出一段了，又特意爬过来，把我们领到好走一点的路上去。
+
+最后的50米道路，花费了大约20分钟，突然间道路平坦，我们终于登上了最顶峰！回忆途中，我们反反复复纠结了五六次，但我们终于还是爬上来了。看着山下美丽的湖泊，脚下诸座雪峰，远空幽幽的蓝天，感受耳边呼呼的冷风，我们非常庆幸自己的坚持。山顶上有登山者码的石头堆，大概是登顶了，就放一块石头，表示留念。我们也捡了2块（特别小的）放在石头堆上，合影留念。
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1390.JPG" full="/gallery/uk/fortwilliam1127/DSC_1390.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1400.JPG" full="/gallery/uk/fortwilliam1127/DSC_1400.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1401.JPG" full="/gallery/uk/fortwilliam1127/DSC_1401.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1402.JPG" full="/gallery/uk/fortwilliam1127/DSC_1402.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_14312.JPG" full="/gallery/uk/fortwilliam1127/DSC_14312.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1419.JPG" full="/gallery/uk/fortwilliam1127/DSC_1419.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1424.JPG" full="/gallery/uk/fortwilliam1127/DSC_1424.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1426.JPG" full="/gallery/uk/fortwilliam1127/DSC_1426.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+山是登顶了，但真正的考验还在后面呢。俗话说，上山容易下山难。冰雪及鞋滑仍旧是大问题。特别是有些上山的路已经被人踩得很实了，现在已经基本变成了冰雪滑梯。眼看着太阳就要下山，我们也顾不上那么多了，用绝招——屁股功。揪着路边的小枯草，半蹲半蹭半滑，一步步往下挪。下了一半，太阳已经到了山后头，天空居然开始飘了点小雪。到了小溪附近，kingwing同志想抄近路了，于是不过溪，改为沿着溪水走。但是越走越没谱，距离主路渐远，无奈只好原路返回。最终，在上山6个小时后，我们终于返回山脚，成功保持了第一名的位置，当然是最后一队下山的人。
+
+在山下又等了15分钟的车。虽然才4点半左右，但是已经黑得如同晚上9点。因为没有运动，鞋子里面的水已经开始显示冰水的威力。于是我们在车站不停地走来走去，当回到Fort William的巴士到来的时候，我们简直就是跳上去的。哦，温暖的公车真是太舒服了。
+
+{{< lightbox thumb="/gallery/uk/fortwilliam1127/DSC_1440.JPG" full="/gallery/uk/fortwilliam1127/DSC_1440.JPG" alt="" group="assets-gallery-uk-fortwilliam1127" >}}
+
+今天回来这么晚，又弄得一身泥，昨天提到的拜访自然是不能前往。老老实实待在房间里面洗衣服，洗鞋子。非常感谢这个B&B，在浴室里面提供了一个电暖的晾衣架，所以我们的鞋子、衣服全都在第二天就干了。洗这么多的东西，很是不好意思。第二天找了老板娘，想付费使用洗衣机再洗一批外套，老板娘很是爽快，直接帮我们免费洗了，还叠的整整齐齐，真是非常感谢。
+
+Tips：有一个高地徒步路线的网站，<a href="http://www.walkhighlands.co.uk/" target="_blank">http://www.walkhighlands.co.uk/</a>，信息非常全，包括线路难度、耗时、海拔、卫星地图、GPS地图，一应俱全。

@@ -1,0 +1,20 @@
+baseURL = '/'
+languageCode = 'zh-cn'
+title = '必须出发 - kiimee的环游间隔年'
+theme = "twentyten"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[languages.zh]
+  languageName = "中文"
+  weight = 1
+
+[params]
+  description = "kiimee的环游间隔年博客 - 记录欧洲、美洲、亚洲、中美洲的旅行故事"
+  author = "kiimee"
+  email = "kingwing@gmail.com"
+  dateFormat = "2006年1月2日"
+  poweredBy = true
+  banner = "/images/banner.jpg"

@@ -1,0 +1,6 @@
+<link rel="pingback" href="{{ "xmlrpc.php" | relURL }}" />
+{{ range .AlternativeOutputFormats }}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" />
+{{ end }}
+
+<script src="{{ "/js/simplelightbox.js" | relURL }}"></script>

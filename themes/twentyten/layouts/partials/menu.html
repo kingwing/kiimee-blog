@@ -1,0 +1,19 @@
+<nav id="access" role="navigation">
+    {{ $currentPage := . }}
+    <ul id="menu">
+        <li class="{{ if .IsHome }}current-menu-item{{ end }}">
+            <a href="{{ .Site.BaseURL }}">首页</a>
+        </li>
+        {{ range .Site.Menus.main }}
+        <li class="{{ if or ($currentPage.IsMenuCurrent .Name) ($currentPage.HasMenuCurrent .Name) }}current-menu-item{{ end }}">
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+        <li class="{{ if eq $currentPage.Kind "page" }}{{ end }}">
+            <a href="/posts/">文章</a>
+        </li>
+        <li class="{{ if eq $currentPage.Kind "page" }}{{ end }}">
+            <a href="/categories/">分类</a>
+        </li>
+    </ul>
+</nav>

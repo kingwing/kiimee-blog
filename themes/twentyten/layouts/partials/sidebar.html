@@ -1,0 +1,39 @@
+<aside id="primary" role="complementary">
+    <div class="sidebar-section sidebar-profile">
+        <div class="profile-images">
+            <img src="/images/avatar.jpg" alt="头像" class="profile-avatar">
+            <img src="/images/name.gif" alt="kiimee" class="profile-name">
+        </div>
+    </div>
+    
+    <div class="sidebar-section">
+        <div class="widget widget_categories">
+            <h3 class="widget-title">文章分类</h3>
+            <ul>
+                {{ range .Site.Taxonomies.categories.Alphabetical }}
+                <li>
+                    <a href="/categories/{{ .Name | urlize }}/">{{ .Name }}</a>
+                    <span class="count">({{ .Count }})</span>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+    
+    <div class="sidebar-section">
+        <div class="widget widget_archive">
+            <h3 class="widget-title">文章归档</h3>
+            <ul>
+                <li>
+                    <a href="/archives/">所有文章归档</a>
+                </li>
+                {{ range first 12 (.Site.RegularPages.GroupByDate "2006年1月").Reverse }}
+                <li>
+                    <a href="/archives/#{{ .Key }}">{{ .Key }}</a>
+                    <span class="count">({{ len .Pages }})</span>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</aside>

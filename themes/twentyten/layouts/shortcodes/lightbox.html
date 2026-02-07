@@ -1,0 +1,9 @@
+{{ $thumb := .Get "thumb" | default (.Get 0) }}
+{{ $full := .Get "full" | default (.Get 1) }}
+{{ $group := .Get "group" | default "default" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" | default "" }}
+
+<a href="{{ $full }}" data-lightbox="{{ $group }}" data-title="{{ $caption }}">
+  <img src="{{ $thumb }}" alt="{{ $alt }}">
+</a>

@@ -1,0 +1,17 @@
+<header id="branding">
+    {{ if .Site.Params.banner }}
+    <div id="banner-area">
+        <img src="{{ .Site.Params.banner }}" alt="Banner" class="banner-image">
+    </div>
+    {{ end }}
+    
+    <div id="header-top" style="background: url('/images/access.jpg') no-repeat center top; background-size: cover;">
+        <nav id="access-top">
+            <ul>
+                <li><a href="/">首页</a></li>
+                <li><a href="/pages/about/">我们</a></li>
+                <li><a href="/archives/">目录</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>

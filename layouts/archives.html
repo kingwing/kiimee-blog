@@ -1,0 +1,45 @@
+{{ define "main" }}
+<div id="archive-page">
+    <h1 class="page-title">文章归档</h1>
+    
+    <div class="archive-stats">
+        <p>共 {{ len (where .Site.RegularPages "Section" "posts") }} 篇文章</p>
+    </div>
+    
+    {{ $currentYear := "" }}
+    {{ range (.Site.RegularPages.GroupByDate "2006年1月").Reverse }}
+        {{ $year := .Key | replaceRE "年.*" "年" }}
+        {{ $month := .Key | replaceRE ".*年" "" }}
+        
+        {{ if ne $year $currentYear }}
+            {{ if ne $currentYear "" }}</div>{{ end }}
+            <div class="archive-year">
+            <h2 class="archive-year-title">{{ $year }}</h2>
+            {{ $currentYear = $year }}
+        {{ end }}
+        
+        <div class="archive-month" id="{{ $year }}{{ $month }}">
+            <h3 class="archive-month-title">{{ $year }}{{ $month }}</h3>
+            
+            <ul class="archive-list">
+                {{ range (.Pages.ByDate) }}
+                <li class="archive-item">
+                    <span class="archive-date">{{ .Date.Format "2006-01-02" }}</span>
+                    <a href="{{ .Permalink }}" class="archive-title">{{ .Title }}</a>
+                    {{ with .Params.categories }}
+                    <span class="archive-category">
+                        {{ range first 1 . }}
+                        [{{ . }}]
+                        {{ end }}
+                    </span>
+                    {{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    {{ end }}
+    {{ if ne $currentYear "" }}</div>{{ end }}
+</div>
+{{ end }}
+
+{{ define "title" }}文章归档 - {{ .Site.Title }}{{ end }}

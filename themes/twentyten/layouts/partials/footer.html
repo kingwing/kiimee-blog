@@ -1,0 +1,16 @@
+<footer id="colophon" role="contentinfo">
+    <div id="site-info">
+        <a href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}" rel="home">
+            {{ .Site.Title }}
+        </a>
+        <span class="sep"> | </span>
+        {{ with .Site.Copyright }}
+        {{ . }}
+        {{ else }}
+        © {{ now.Format "2006" }} {{ .Site.Title }}
+        {{ end }}
+        <span class="sep"> | </span>
+        主题: <a href="https://gohugo.io/" rel="generator">Hugo</a>
+        基于 <a href="https://WordPress.org/" rel="generator">WordPress Twenty Ten</a>
+    </div>
+</footer>

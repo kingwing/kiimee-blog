@@ -1,0 +1,8 @@
+name = "twentyten"
+version = "1.0.0"
+description = "Hugo theme inspired by WordPress Twenty Ten, designed for kiimee travel blog"
+
+[features]
+  responsive = true
+  sidebar = true
+  chinese = true

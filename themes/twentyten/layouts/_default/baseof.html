@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ hugo.Generator }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "style.css" | relURL }}">
+    {{ partial "head.html" . }}
+</head>
+<body>
+    <div id="wrapper">
+        {{ partial "header.html" . }}
+        
+        <div id="container">
+            {{ partial "sidebar.html" . }}
+            
+            <div id="content-container">
+                <div id="content" role="main">
+                    {{ block "main" . }}{{ end }}
+                </div>
+            </div>
+            
+            <div class="clear"></div>
+        </div>
+        
+        {{ partial "footer.html" . }}
+    </div>
+</body>
+</html>

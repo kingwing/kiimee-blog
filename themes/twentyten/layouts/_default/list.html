@@ -1,0 +1,66 @@
+{{ define "main" }}
+<h1 class="page-title">
+    {{ if eq .Kind "term" }}
+    {{ .Title }}: {{ .Data.Term }}
+    {{ else if eq .Kind "section" }}
+    {{ .Title }}
+    {{ else }}
+    文章归档
+    {{ end }}
+</h1>
+
+{{ range .Paginator.Pages }}
+<article class="post">
+    <header class="entry-header">
+        <h2 class="entry-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+        
+        <div class="entry-meta">
+            <span class="meta-prep meta-prep-author">
+                作者 {{ .Params.author | default "kingwing" }}
+            </span>
+            
+            <span class="meta-sep"> | </span>
+            
+            <span class="meta-date">
+                {{ .Date.Format "2006年1月2日" }}
+            </span>
+            
+            {{ if .Params.categories }}
+            <span class="meta-sep"> | </span>
+            <span class="meta-cat">
+                {{ range first 1 .Params.categories }}
+                <a href="/categories/{{ . | urlize }}/" rel="category">{{ . }}</a>
+                {{ end }}
+            </span>
+            {{ end }}
+        </div>
+    </header>
+    
+    <div class="entry-content">
+        {{ .Summary }}
+        
+        <footer class="entry-utility">
+            <a href="{{ .Permalink }}" class="read-more">阅读全文 &raquo;</a>
+        </footer>
+    </div>
+</article>
+{{ end }}
+
+{{ if gt .Paginator.TotalPages 1 }}
+<nav class="navigation">
+    {{ if .Paginator.HasPrev }}
+    <div class="nav-previous">
+        <a href="{{ .Paginator.Prev.URL }}">&laquo; 较新的文章</a>
+    </div>
+    {{ end }}
+    
+    {{ if .Paginator.HasNext }}
+    <div class="nav-next">
+        <a href="{{ .Paginator.Next.URL }}">较早的文章 &raquo;</a>
+    </div>
+    {{ end }}
+</nav>
+{{ end }}
+{{ end }}

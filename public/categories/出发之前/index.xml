@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>出发之前 on 必须出发 - kiimee的环游间隔年</title>
+    <link>//localhost:1313/categories/%E5%87%BA%E5%8F%91%E4%B9%8B%E5%89%8D/</link>
+    <description>Recent content in 出发之前 on 必须出发 - kiimee的环游间隔年</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 10 Oct 2010 23:35:22 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/%E5%87%BA%E5%8F%91%E4%B9%8B%E5%89%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在一个极客（Geek）出发之前</title>
+      <link>//localhost:1313/posts/2010-10-10-%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%9E%81%E5%AE%A2geek%E5%87%BA%E5%8F%91%E4%B9%8B%E5%89%8D/</link>
+      <pubDate>Sun, 10 Oct 2010 23:35:22 +0000</pubDate>
+      <guid>//localhost:1313/posts/2010-10-10-%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%9E%81%E5%AE%A2geek%E5%87%BA%E5%8F%91%E4%B9%8B%E5%89%8D/</guid>
+      <description>&lt;p&gt;极客 - 标题党，事先声明。&lt;/p&gt;&#xA;&lt;p&gt;昨天鼓捣wordpress到sina微博和twitter的同步，到凌晨5点；今天下午又鼓捣到下午出发前半小时；刚才在机场又调了办了小时，貌似全部OK，发此贴测试。&lt;/p&gt;&#xA;&lt;p&gt;刚广播登机，时间有限，先说一下我目前采用的方法。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;wordpress - sina，采用sina微博的关联博客功能；&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;sina - twitter，采用&lt;!-- raw HTML omitted --&gt;月光博客的方法&lt;!-- raw HTML omitted --&gt;，php页面部署至本服务器空间，使用FeedBurner烧制sina微博的rss。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;优点，同步速度貌似比较快（待考验），短链接采用sina微博的sinaurl.cn，以防被墙；sina和twitter的内容都比较干净，不会出现sinaurl与goo.gl（诸如此类）两个地址。&lt;/p&gt;&#xA;&lt;p&gt;登机……夜空飞行……&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>第一天，出发</title>
+      <link>//localhost:1313/posts/2010-10-10-%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8F%91/</link>
+      <pubDate>Sun, 10 Oct 2010 22:10:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/2010-10-10-%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8F%91/</guid>
+      <description>&lt;p&gt;今天是10月10日，现在我们在香港机场，等待凌晨的飞机。经历了最近几天的忙乱，总算在这一刻能稍微停下来点了。貌似没有想象中的兴奋，激动，反而是好像普通的旅行一样在默默等待。在这一刻，有一点点混乱，开始或结束都不重要，我只知道我们正在跟着时间奔跑，在经历我们没有接触过的生活。&lt;/p&gt;&#xA;&lt;p&gt;今天的大包一个10kg，一个15kg，和我们预计的一样，再加上随身的包包。觉得背上这身行头真的挺唬人的，走在搭车的路上，回头率那个高啊。特别是kingwing先生，背上一个，胸前一个，腰上还有一个，蔚为壮观。&lt;/p&gt;&#xA;&lt;p&gt;还有2个小时就登机起飞了，预计10多个小时在飞机上。kingwing先生表示将在飞机上发愤图强，写写博客，让我们一起期待吧：）&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
