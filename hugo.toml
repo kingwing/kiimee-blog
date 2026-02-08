@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'zh-cn'
 title = '必须出发 - kiimee的环游间隔年'
 theme = "twentyten"
+defaultContentLanguage = "zh"
 
 [taxonomies]
   category = "categories"
